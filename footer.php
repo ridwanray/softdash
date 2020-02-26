@@ -2,7 +2,9 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Your Website 2019</span>
+            <span>Copyright &copy; Apersoft Technologies Nigeria Limited <script type="text/javascript">
+  document.write(new Date().getFullYear());
+</script></span>
           </div>
         </div>
       </footer>

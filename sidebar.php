@@ -17,8 +17,8 @@
             <img src="img/S114501056.jpg" class="rounded mx-auto d-block" alt="TERIBA, Nimota Passport" width="100px" height="100px">
             <div class="stats-label text-color">
             <div class="text-center text-white sidebar-brand-text mx-3 font-weight-bold">Ray Wire</div>
-            <div class="text-center text-white"><span class="badge badge-info">S114501056</span></div>
-            <div class="text-center text-white"><span class="badge badge-info">900 Level</span></div>          
+            <div class="text-center text-white"><span class="badge badge-light">S114501056</span></div>
+            <div class="text-center text-white"><span class="badge badge-light">900 Level</span></div>          
        </li>
       
 
